@@ -1,4 +1,7 @@
 
+#This code is implemented by Pratik korat @ 7th August 2020
+#AlexNet Implementation of keras
+
 import tensorflow as tf
 from tensorflow import keras
 from keras.regularizers import  l2
